@@ -25,6 +25,11 @@ body {
     justify-content: center;
     align-items: center;
     margin: 50px 100px;
+    align-items: stretch;
+}
+
+.hero-text {
+    flex: 1;
 }
 
 .hero-main {
@@ -43,7 +48,9 @@ body {
 .hero-image {
     color: #E5E7EB;
     background-color: gray;
+    flex: 1;
 }
+
 .logo {
     color: #F9FAF8;
 }

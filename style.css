@@ -27,6 +27,27 @@ body {
     margin: 50px 100px
 }
 
+.hero-main {
+    color: #F9FAF8;
+}
+
+.hero-secondary {
+    color: #E5E7EB;
+}
+
+.hero-button {
+    color: #F9FAF8;
+    background-color: #3882F6;
+}
+
+.hero-image {
+    color: #E5E7EB;
+    background-color: gray;
+}
+.logo {
+    color: #F9FAF8;
+}
+
 ul {
     list-style: none;
     margin: 0;

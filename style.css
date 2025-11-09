@@ -11,6 +11,10 @@ body {
     flex-direction: column;
 }
 
+.header {
+    background-color: #1F2937;
+}
+
 .top-banner {
     display: flex;
     justify-content: space-between;

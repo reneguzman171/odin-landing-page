@@ -46,6 +46,11 @@ body {
 .hero-button {
     color: #F9FAF8;
     background-color: #3882F6;
+    border: none;
+    padding: 8px 32px;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 700;
 }
 
 .hero-image {

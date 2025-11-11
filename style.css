@@ -49,6 +49,9 @@ body {
     color: #E5E7EB;
     background-color: gray;
     flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .logo {

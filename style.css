@@ -112,3 +112,7 @@ a {
     border-style: solid;
     border-radius: 8px;
 }
+
+.info-subtext {
+    font-size: 18px;
+}

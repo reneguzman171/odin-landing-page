@@ -103,6 +103,7 @@ a {
 
 .info-container {
     display: flex;
+    gap: 44px;
 }
 
 .info-card {

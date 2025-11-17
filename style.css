@@ -97,3 +97,12 @@ a {
 .info-container {
     display: flex;
 }
+
+.info-image {
+    box-sizing: border-box;
+    width: 100px;
+    height: 100px;
+    border: 3px #3882F6;
+    border-style: solid;
+    border-radius: 8px;
+}

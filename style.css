@@ -94,3 +94,7 @@ a {
     flex-flow: column wrap;
     align-items: center;
 }
+
+.info-container {
+    display: flex;
+}

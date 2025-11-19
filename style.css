@@ -127,3 +127,18 @@ a {
     font-size: 18px;
     text-align: center;
 }
+
+.quote-section {
+    background-color: #E5E7EB;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.author {
+    font-weight: 700;
+}

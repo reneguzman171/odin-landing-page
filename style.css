@@ -161,4 +161,8 @@ a {
     background-color: #3882F6;
     color: #F9FAF8;
     border-color: #F9FAF8;
+    padding: 4px 24px;
+    border-radius: 8px;
+    font-weight: 700;
+    border-style: solid;
 }

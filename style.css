@@ -152,6 +152,9 @@ a {
     color: #F9FAF8;
     margin: 75px 465px;
     padding: 2rem 6rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .call-button {

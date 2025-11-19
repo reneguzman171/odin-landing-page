@@ -150,6 +150,8 @@ a {
 .call-to-action {
     background: #3882F6;
     color: #F9FAF8;
+    margin: 75px 465px;
+    padding: 2rem 6rem;
 }
 
 .call-button {

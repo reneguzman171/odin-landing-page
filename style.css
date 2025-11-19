@@ -157,6 +157,11 @@ a {
     align-items: center;
 }
 
+.call-header {
+    font-size: 22px;
+    font-weight: 700;
+}
+
 .call-button {
     background-color: #3882F6;
     color: #F9FAF8;

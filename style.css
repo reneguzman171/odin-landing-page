@@ -130,6 +130,7 @@ a {
 
 .quote-section {
     background-color: #E5E7EB;
+    padding: 75px 550px;
 }
 
 .quote {
@@ -141,4 +142,6 @@ a {
 
 .author {
     font-weight: 700;
+    text-align: right;
+    padding-right: 2em;
 }

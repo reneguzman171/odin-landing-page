@@ -141,6 +141,7 @@ a {
 }
 
 .author {
+    font-size: 20px;
     font-weight: 700;
     text-align: right;
     padding-right: 2em;
